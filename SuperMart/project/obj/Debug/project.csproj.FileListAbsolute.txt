@@ -1,0 +1,44 @@
+C:\Users\haris ali\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\haris ali\Desktop\project\project\bin\Debug\project.exe
+C:\Users\haris ali\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\haris ali\Desktop\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\haris ali\Desktop\project\project\obj\Debug\project.Form1.resources
+C:\Users\haris ali\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\haris ali\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\haris ali\Desktop\project\project\obj\Debug\project.exe
+C:\Users\haris ali\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\haris ali\Desktop\project\project\obj\Debug\project.admincontrols.resources
+C:\Users\haris ali\Desktop\project\project\obj\Debug\project.adminlogin.resources
+C:\Users\haris ali\Desktop\project\project\obj\Debug\project.addcashierdetail.resources
+C:\Users\haris ali\Desktop\project\project\obj\Debug\project.cashieracces.resources
+C:\Users\haris ali\Desktop\project\project\obj\Debug\project.cashiercontrols.resources
+C:\Users\haris ali\Desktop\project - Copy\project\bin\Debug\project.exe.config
+C:\Users\haris ali\Desktop\project - Copy\project\obj\Debug\project.exe
+C:\Users\haris ali\Desktop\project - Copy\project\obj\Debug\project.pdb
+C:\Users\haris ali\Desktop\project - Copy\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\haris ali\Desktop\project - Copy\project\obj\Debug\project.admincontrols.resources
+C:\Users\haris ali\Desktop\project - Copy\project\obj\Debug\project.adminlogin.resources
+C:\Users\haris ali\Desktop\project - Copy\project\obj\Debug\project.cashieracces.resources
+C:\Users\haris ali\Desktop\project - Copy\project\obj\Debug\project.cashiercontrols.resources
+C:\Users\haris ali\Desktop\project - Copy\project\obj\Debug\project.Form1.resources
+C:\Users\haris ali\Desktop\project - Copy\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\haris ali\Desktop\project - Copy\project\obj\Debug\project.REPORTVIEWER.resources
+C:\Users\haris ali\Desktop\project - Copy\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\haris ali\Desktop\project - Copy\project\bin\Debug\project.exe
+C:\Users\haris ali\Desktop\project - Copy\project\bin\Debug\project.pdb
+C:\Users\haris ali\Desktop\project - Copy\project\obj\Debug\project.FEEDBACK.resources
+C:\Users\haris ali\Desktop\NET\supermart\project\bin\Debug\project.exe.config
+C:\Users\haris ali\Desktop\NET\supermart\project\obj\Debug\project.exe
+C:\Users\haris ali\Desktop\NET\supermart\project\obj\Debug\project.pdb
+C:\Users\haris ali\Desktop\NET\supermart\project\bin\Debug\project.exe
+C:\Users\haris ali\Desktop\NET\supermart\project\bin\Debug\project.pdb
+C:\Users\haris ali\Desktop\NET\supermart\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\haris ali\Desktop\NET\supermart\project\obj\Debug\project.admincontrols.resources
+C:\Users\haris ali\Desktop\NET\supermart\project\obj\Debug\project.adminlogin.resources
+C:\Users\haris ali\Desktop\NET\supermart\project\obj\Debug\project.cashieracces.resources
+C:\Users\haris ali\Desktop\NET\supermart\project\obj\Debug\project.cashiercontrols.resources
+C:\Users\haris ali\Desktop\NET\supermart\project\obj\Debug\project.FEEDBACK.resources
+C:\Users\haris ali\Desktop\NET\supermart\project\obj\Debug\project.Form1.resources
+C:\Users\haris ali\Desktop\NET\supermart\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\haris ali\Desktop\NET\supermart\project\obj\Debug\project.REPORTVIEWER.resources
+C:\Users\haris ali\Desktop\NET\supermart\project\obj\Debug\project.csproj.GenerateResource.Cache

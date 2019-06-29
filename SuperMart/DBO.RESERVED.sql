@@ -1,0 +1,7 @@
+﻿CREATE PROCEDURE [dbo].[RESERVED]
+	
+AS
+	BEGIN
+	SELECT *FROM reserved
+	END
+
